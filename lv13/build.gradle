@@ -1,0 +1,4 @@
+android.defaultConfig {
+    minSdkVersion 13
+    maxSdkVersion 22
+}
