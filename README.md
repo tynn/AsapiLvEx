@@ -21,7 +21,7 @@ Artifact without `minSdkVersion` and with `maxSdkVersion` set.
 
   [0]: https://jitpack.io/v/com.github.asapi/asapilvex.svg
   [1]: https://jitpack.io/#com.github.asapi/asapilvex
-  [2]: https://asapi.herokuapp.com/com.github.asapi/asapilvex/api.svg
+  [2]: https://asapi.herokuapp.com/com.github.asapi/asapilvex@svg
   [3]: https://asapi.herokuapp.com/com.github.asapi/asapilvex
 
   [a1]:  https://asapi.herokuapp.com/com.github.asapi.asapilvex/lv1
@@ -29,10 +29,10 @@ Artifact without `minSdkVersion` and with `maxSdkVersion` set.
   [a21]: https://asapi.herokuapp.com/com.github.asapi.asapilvex/lv21
   [a23]: https://asapi.herokuapp.com/com.github.asapi.asapilvex/lv23
 
-  [s1]:  https://asapi.herokuapp.com/com.github.asapi.asapilvex/lv1/api.svg?label=api&colorB=FFAA00
-  [s13]: https://asapi.herokuapp.com/com.github.asapi.asapilvex/lv13/api.svg?colorB=00CC00
-  [s21]: https://asapi.herokuapp.com/com.github.asapi.asapilvex/lv21/api.svg
-  [s23]: https://asapi.herokuapp.com/com.github.asapi.asapilvex/lv23/api.svg?style=plastic
+  [s1]:  https://asapi.herokuapp.com/com.github.asapi.asapilvex/lv1@svg?label=api&colorB=FFAA00
+  [s13]: https://asapi.herokuapp.com/com.github.asapi.asapilvex/lv13@svg?colorB=00CC00
+  [s21]: https://asapi.herokuapp.com/com.github.asapi.asapilvex/lv21@svg
+  [s23]: https://asapi.herokuapp.com/com.github.asapi.asapilvex/lv23@svg?style=plastic
 
   [j1]:  https://jitpack.io/#com.github.asapi.asapilvex/lv1
   [j13]: https://jitpack.io/#com.github.asapi.asapilvex/lv13
