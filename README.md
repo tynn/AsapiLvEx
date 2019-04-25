@@ -21,7 +21,7 @@ Artifact without `minSdkVersion` and with `maxSdkVersion` set.
 
   [0]: https://jitpack.io/v/com.github.asapi/asapilvex.svg
   [1]: https://jitpack.io/#com.github.asapi/asapilvex
-  [2]: https://asapi.herokuapp.com/com.github.asapi/asapilvex@svg
+  [2]: https://asapi.herokuapp.com/com.github.asapi/asapilvex@svg?logo=android
   [3]: https://asapi.herokuapp.com/com.github.asapi/asapilvex
 
   [a1]:  https://asapi.herokuapp.com/com.github.asapi.asapilvex/lv1
